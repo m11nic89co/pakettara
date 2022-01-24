@@ -1,0 +1,29 @@
+.freehosting-2domains-link {
+  display: none;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  min-height: 100%;
+  display: grid;
+  align-items: center;
+  text-align: center;
+  padding: 4em 1em;
+  background: url(PakettaraRuSmallSize.png) no-repeat;
+  background-position: 60%;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #fff
+}
+
+.since {
+  background-size: 2px;
+}
+
+h1 {
+  background-color: #211f1fa6;
+  display: inline-block;
+}
